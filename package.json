@@ -18,8 +18,6 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "prettier": "^1.12.1",
-    "react": "^16.3.2",
     "react-native": "^0.55.4",
     "react-native-image-picker": "^0.26.10",
     "react-native-maps": "0.17.1",
@@ -27,6 +25,7 @@
     "react-native-vector-icons": "^4.4.2",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "yarn-upgrade-all": "^0.5.2"
   }
 }

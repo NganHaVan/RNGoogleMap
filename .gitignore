@@ -1,5 +1,5 @@
-./node_modules
 ios/
 android/
 functions/
 firebase.json
+node_modules
