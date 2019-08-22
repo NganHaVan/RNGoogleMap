@@ -1,0 +1,32 @@
+{
+  "name": "socialmap",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest": "^22.4.3",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "prettier": "^1.12.1",
+    "react": "^16.3.2",
+    "react-native": "^0.55.4",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-maps": "0.17.1",
+    "react-native-navigation": "^1.1.458",
+    "react-native-vector-icons": "^4.4.2",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  }
+}
